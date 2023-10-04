@@ -48,4 +48,7 @@
     place-items: center;
     justify-content: center;
   }
+  #footer{
+    text-align: center;
+  }
 }
